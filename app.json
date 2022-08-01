@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "connection-week",
+    "slug": "connection-week",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
